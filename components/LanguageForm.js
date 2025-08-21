@@ -110,7 +110,7 @@ export default function LanguagesForm({ onBack, onNext }) {
                 ← Back
               </button>
               <div className="text-center">
-                <p className="text-sm text-gray-600 mb-2">You're all set! Review your resume and download as PDF.</p>
+                <p className="text-sm text-gray-600 mb-2">You are all set! Review your resume and download as PDF.</p>
                 <button
                   type="button"
                   className="px-6 py-3 bg-gradient-to-r from-green-600 to-green-700 text-white rounded-lg font-medium hover:from-green-700 hover:to-green-800 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
